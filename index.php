@@ -4,4 +4,6 @@ echo "Meu primeiro  <strong> programa PHP </strong> com alteração par aprender
 
 echo "Testando Incompatibilidade"
   
+echo "Corrigindo"
+  
 ?>
