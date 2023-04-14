@@ -10,5 +10,6 @@ echo "Corrigindo"
 echo "NOVOS COMANDOS"
   
 echo "Remoto para local"
-  
+
+echo "Local para Remoto "  
 ?>
