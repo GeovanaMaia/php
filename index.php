@@ -8,6 +8,7 @@ echo "Testando Incompatibilidade"
 echo "Corrigindo"
 
 echo "NOVOS COMANDOS"
-
+  
+echo "Remoto para local"
   
 ?>
